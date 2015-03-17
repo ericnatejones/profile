@@ -6,7 +6,6 @@ angular.module('myApp', [
   'ngRoute',
   'ui.bootstrap',
   'myApp.sites',
-  'myApp.site_detail',
   'myApp.version'
 ])
 
